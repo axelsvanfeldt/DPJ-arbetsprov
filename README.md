@@ -16,8 +16,13 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 - Utnyttja gärna AJAX eller likvärdig teknik för att presentera sökresultaten utan att ladda om webbsidan.
 - Vill du visa prov på PHP-kunskaper är det välkommet.
 - Då vi skriver mycket av vår kod med hjälp av jQuery ser vi gärna att du använder dig av någon version av jQuery i denna uppgift. Projektet laddar i dagsläget jQuery 3.5.1, men känn dig fri att byta till annan version om det passar dig bättre.
-
 - I övrigt uppmanar vi till kreativitet genom att lägga till egen funktionalitet som kan vara relevant (exempelvis sökfilter) för att göra projektet roligare eller/och mer användarvänligt.
+
+## Exempel på API-tjänster:
+Använd dig av valfritt API, men nedan finns några exempel på öppna API-tjänster att använda.
+- **Stockholm stad:** https://dataportalen.stockholm.se/dataportalen/
+- **Sveriges Radio:** https://sverigesradio.se/api/documentation/v2/index.html
+- **SCB:** https://www.scb.se/vara-tjanster/oppna-data/api-for-statistikdatabasen/
 
 ## Vad vi tittar på:
 - Hur HTML, CSS, JS och eventuell PHP är skriven.
