@@ -14,7 +14,7 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 - Använd gärna de existerande filerna för att spara tid. Väljer du hellre att paketera ditt projekt med Webpack eller annan mjukvara för att kunna skriva i Sass och ES6+ ses det enbart som något positivt. Se dock till att skapa ditt bundle på egen hand innan du skickar in ditt projekt.
 - Känn dig i övrigt helt fri att skapa nya element samt att byta ut existerande element, fonts eller filstruktur om det passar dig bättre.
 - Utnyttja gärna AJAX eller likvärdig teknik för att presentera sökresultaten utan att ladda om webbsidan.
-- Vill du visa prov på PHP-kunskaper är det välkommet. Om inte är du fri att byta ut index.php mot index.html eller liknande.
+- Vill du visa prov på PHP-kunskaper är det välkommet.
 - Då vi skriver mycket av vår kod med hjälp av jQuery ser vi gärna att du använder dig av någon version av jQuery i denna uppgift. Projektet laddar i dagsläget jQuery 3.5.1, men känn dig fri att byta till annan version om det passar dig bättre.
 
 - I övrigt uppmanar vi till kreativitet genom att lägga till egen funktionalitet som kan vara relevant (exempelvis sökfilter) för att göra projektet roligare eller/och mer användarvänligt.
