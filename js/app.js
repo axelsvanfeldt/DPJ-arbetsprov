@@ -1,3 +1,3 @@
 $(document).ready(function() {
-    alert("välkommen");
+    console.log("Lycka till!");
 });
