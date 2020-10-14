@@ -11,7 +11,7 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 7. Komprimera ditt projekt och maila det till axel.svanfeldt@dpj.se.
 
 ## Anteckningar:
-- Använd gärna de existerande filerna för att spara tid. Väljer du hellre att paketera ditt projekt med Webpack eller annan mjukvara för att kunna skriva i Sass och ES6+ ses det enbart som något positivt. Se dock till att skapa ditt bundle på egen hand innan du skickar in ditt projekt.
+- Använd gärna de existerande filerna för att spara tid. Väljer du hellre att paketera ditt projekt med Webpack eller annan mjukvara för att kunna skriva i Sass och ES6+ ses det enbart som något positivt. Se då till att paketera projektet på egen hand innan du skickar in det.
 - Känn dig i övrigt helt fri att skapa nya element samt att byta ut existerande element, fonts eller filstruktur om det passar dig bättre.
 - Utnyttja gärna AJAX eller likvärdig teknik för att presentera sökresultaten utan att ladda om webbsidan.
 - Vill du visa prov på PHP-kunskaper är det välkommet.
