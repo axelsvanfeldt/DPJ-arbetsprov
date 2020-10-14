@@ -23,6 +23,6 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 - Hur HTML, CSS, JS och eventuell PHP är skriven.
 - Vilka tekniker du använt dig utav.
 - Hur du har strukturerat/paketerat ditt projekt.
-- Din design.
+- Hur väl du har designat ditt projekt.
 
 **Lycka till!**
