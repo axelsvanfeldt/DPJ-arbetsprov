@@ -24,7 +24,7 @@ Använd dig av valfritt API, men nedan finns några exempel på öppna API-tjän
 - **Sveriges Radio:** https://sverigesradio.se/api/documentation/v2/index.html
 - **SCB:** https://www.scb.se/vara-tjanster/oppna-data/api-for-statistikdatabasen/
 
-Känner du att du sparar tid på att istället skapa en JSON-fil eller liknande att hämta data ifrån är det helt okej.
+*Känner du att du sparar tid på att istället skapa en JSON-fil eller liknande att hämta data ifrån är det helt okej.*
 
 ## Vad vi tittar på:
 - Hur HTML, CSS, JS och eventuell PHP är skriven.
