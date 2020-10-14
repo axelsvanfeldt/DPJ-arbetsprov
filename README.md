@@ -23,6 +23,7 @@ Använd dig av valfritt API, men nedan finns några exempel på öppna API-tjän
 - **Stockholm stad:** https://dataportalen.stockholm.se/dataportalen/
 - **Sveriges Radio:** https://sverigesradio.se/api/documentation/v2/index.html
 - **SCB:** https://www.scb.se/vara-tjanster/oppna-data/api-for-statistikdatabasen/
+
 Känner du att du sparar tid på att istället skapa en JSON-fil eller liknande att hämta data ifrån är det helt okej.
 
 ## Vad vi tittar på:
