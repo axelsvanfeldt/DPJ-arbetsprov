@@ -11,7 +11,7 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 
 Använd gärna de förskapade filerna för att spara tid. Väljer du hellre att skapa ett bundle med Webpack eller annan mjukvara för att kunna skriva i Sass och ES6+ ses det enbart som något positivt. Se dock till att skapa ditt bundle på egen hand innan du skickar in ditt projekt.
 
-Känn dig i övrigt helt fri att skapa nya element samt att byta filstruktur om det passar dig bättre.
+Känn dig i övrigt helt fri att skapa nya element samt att byta ut existerande element eller filstruktur om det passar dig bättre.
 
 Utnyttja gärna AJAX eller likvärdig teknik för att presentera sökresultaten utan att ladda om webbsidan.
 
