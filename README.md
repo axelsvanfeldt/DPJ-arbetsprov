@@ -6,7 +6,7 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 2. Implementera sökfunktionalitet till textfältet genom att ansluta dig till valfritt publikt REST API med hjälp av JavaScript eller PHP.
 3. Presentera resultat för sökningar i någon form av resultat-yta.
 4. Skapa en responsiv och användarvänlig design med hjälp av CSS (eller Sass). Designen bör fungera för mobila enheter samt desktops.
-5. Kommentera din kod!
+5. Kommentera gärna din kod!
 6. Redigera README-filen med eventuella instruktioner som bör tas i åtanke angående ditt projekt.
 7. Komprimera ditt projekt och maila det till axel.svanfeldt@dpj.se.
 
