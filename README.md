@@ -3,7 +3,7 @@ Ett simpelt arbetsprov för ansökningar till DPJ Workspace.
 
 ## Instruktioner:
 1. Hämta hem repot och öppna det i din browser eller på valfri webbserver.
-2. Implementera sökfunktionalitet till textfältet genom att ansluta dig till valfritt publikt REST API med hjälp av JavaScript eller PHP.
+2. Implementera sökfunktionalitet till textfältet genom att ansluta dig till valfritt publikt REST API med hjälp av JavaScript och/eller PHP.
 3. Presentera resultat för sökningar i någon form av resultat-yta.
 4. Skapa en responsiv och användarvänlig design med hjälp av CSS (eller Sass). Designen bör fungera för mobila enheter samt desktops men behöver inte vara avancerad.
 5. Kommentera gärna din kod!
